@@ -1,5 +1,6 @@
 import axios from 'axios'
-const API_URL = 'http://localhost:8000/api/v1/lib/publishing_house/';
+//const API_URL = 'http://localhost:8000/api/v1/lib/publishing_house/';
+const API_URL = 'http://10.80.0.110:8000/api/v1/lib/publishing_house/';
 
 export default class PubManager {
 
